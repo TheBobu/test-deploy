@@ -1,6 +1,6 @@
 {
   "name": "testdeploy",
-  "homepage": "https://thebobu.github.io/test-deploy",
+  "homepage": "https://test-deploy-sage.vercel.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
