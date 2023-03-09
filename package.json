@@ -1,6 +1,6 @@
 {
   "name": "testdeploy",
-  "homepage": "https://TheBobu.github.io/test-deploy",
+  "homepage": "https://thebobu.github.io/test-deploy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
